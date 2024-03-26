@@ -12,3 +12,5 @@
 [LAB-06](https://github.com/shivakumarthaduri/AIML_BATCH_10/blob/main/Lab03_AIML.ipynb)
 
 [LAB-07](https://github.com/shivakumarthaduri/AIML_BATCH_10/blob/main/lab_7.ipynb)
+
+[LAB-08](https://github.com/shivakumarthaduri/AIML_BATCH_10/blob/main/LAB_08.ipynb)
